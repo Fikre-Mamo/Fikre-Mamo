@@ -1,73 +1,31 @@
-# Fikremichael Mamo
+<h1 align="center">Hi 👋, I'm Fikre</h1>
+<h3 align="center">I'm Frontend and data Analysis, i am from internet😊</h3>
 
-📍 **Location:** Addis Ababa  
-📞 **Phone:** 0945186004  
-📧 **Email:** [fikremichaelmamo@gmail.com](mailto:fikremichaelmamo@gmail.com)  
-🌐 **Website:** [fikremichael.com](https://firke-portfolio.netlify.app)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikre-mamo&label=Profile%20views&color=0e75b6&style=flat" alt="fikre-mamo" /> </p>
 
----
+- 🔭 I’m currently self employee **Working on my new project 'Poverty and the Internet'.**
 
-## About Me
+- 🌱 I’m currently learning **Next.js.**
 
-I am a highly organized and detail-oriented professional with a passion for accuracy and efficiency in administrative support. My growing expertise in data entry, document management, and cross-cultural communication has equipped me to contribute effectively to any team. I aim to expand my knowledge in project management, data analysis, and web development while ensuring seamless operations.
+- 👨‍💻 All of my projects are available at [https://firke-portfolio.netlify.app](https://firke-portfolio.netlify.app)
 
----
+- 💬 Ask me about **react, python, SQL, and programming in general.**
 
-## Skills
+- 📫 How to reach me **fikremichaelmamo@gmail.com.**
 
-- **Technical Expertise:** Technical troubleshooting, Microsoft Office, CRM tools like Bitrix24  
-- **Data & Analytics:** Power BI (certified), DAX, Power Query, data visualization  
-- **Soft Skills:** Analytical thinking, problem-solving, customer support  
-- **Languages:** English (Advanced), Arabic (Native)
+- ⚡ Fun fact **I don't know if you noticed this, but i don't have any friends.**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@fikremichael_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fikremichael_m" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fikremichael-mamo-46185b331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firkemichael mamo" height="30" width="40" /></a>
+</p>
 
-## Certifications & Training
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **Power BI Desktop (2024):** Interactive dashboards, data modeling, actionable insights  
-- **Google IT Support Professional Certificate (2024):** Computer assembly, subnet management, device software  
-- **Human Resources Analytics (2024):** HR data management, effective structuring  
-- **Business Analysis & Process Management (2024):** Process definition, analysis, and solutions  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fikre-mamo&show_icons=true&locale=en&layout=compact" alt="fikre-mamo" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fikre-mamo&show_icons=true&locale=en" alt="fikre-mamo" /></p>
 
-## Professional Experience
-
-### Support Staff  
-**Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), Khartoum**  
-*09/2019 – 10/2023*
-
-- Proofread and distributed vital documents, ensuring accuracy.  
-- Maintained updated archives for client and project information.  
-- Coordinated meetings, schedules, and calendars for efficient time management.  
-- Supported a healthy and productive work environment.  
-
-### Waiter  
-**Barcelona Restaurant, Khartoum**  
-*02/2015 – 05/2018*
-
-- Delivered top-notch customer service in a fast-paced environment.  
-- Managed table assignments and addressed guest inquiries.  
-- Ensured cleanliness and organization in the dining area.  
-
----
-
-## Interests
-
-- Cloud Computing  
-- Data Visualization  
-- Big Data Technologies  
-- Automation Tools  
-- Front-End Development  
-- Open Source Projects  
-- Continuous Learning  
-
----
-
-## Let's Connect!
-
-Feel free to reach out to me via email or explore my portfolio at [fikremichael.com](https://firke-portfolio.netlify.app).
-
----
-
-*This README was auto-generated from a CV file.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikre-mamo&" alt="fikre-mamo" /></p>
