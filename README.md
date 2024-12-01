@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **fikremichaelmamo@gmail.com**.
 
-- ⚡ Fun fact: I love learning so much, sometimes I feel like the Internet is my best friend. 😅
+- ⚡ Fun fact: **I love learning so much, sometimes I feel like the Internet is my best friend**. 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
