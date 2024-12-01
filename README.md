@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fikremichaelmamo@gmail.com.**
 
-- ⚡ Fun fact **I don't know if you noticed this, but i don't have any friends.**
+- ⚡ Fun fact **I don't know if you noticed this, but i don't have any friends 🥲.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
