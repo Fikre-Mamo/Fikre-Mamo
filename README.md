@@ -68,6 +68,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fikre-mamo&show_icons=true&locale=en" alt="fikre-mamo" />
 </p>
 
-<p style="margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikre-mamo&" alt="fikre-mamo" />
-</p>
+
+
+
