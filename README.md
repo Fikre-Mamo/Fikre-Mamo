@@ -1,73 +1,74 @@
-<h1 align="center">Hi 👋, I'm Fikre</h1>
-<h3 align="center">I'm a Frontend Developer and Data Analyst, passionate about technology and solving real-world problems through programming.😊</h3>
+# Hi there! 👋 Welcome to my GitHub
 
-<p align="left"> <img class="icon-container" src="https://komarev.com/ghpvc/?username=fikre-mamo&label=Profile%20views&color=0e75b6&style=flat" alt="fikre-mamo" /> </p>
+I'm a **Data Analyst** and **Web Developer** with a passion for uncovering insights and building solutions that make an impact. Whether it's crunching numbers, visualizing data, or coding up sleek web apps, I thrive on challenges and love solving problems with creativity and logic.
 
-- 🔭 I’m currently self-employed, **working on my new project 'Poverty and the Internet'**, exploring the role of internet access in alleviating poverty.
+---
 
-- 🌱 I’m currently learning **Next.js**.
+### 🚀 About Me
+- **🔍 Curious Analyst**: I love diving into datasets to find meaningful patterns and tell compelling stories through data.
+- **💻 Problem-Solving Coder**: I build clean, efficient, and user-friendly websites that solve real-world problems.
+- **📚 Lifelong Learner**: Constantly leveling up my skills in Python, SQL, JavaScript, and data visualization tools.
+- **🌍 Advocate for Change**: Passionate about working with data that contributes to social improvement, especially in poverty, education, and equity.
 
-- 👨‍💻 You can find my portfolio at [fikremichael.come](https://firke-portfolio.netlify.app).
+---
 
-- 💬 Ask me about **React, Python, SQL, and programming in general**.
+### 🔧 Skills & Tools
+#### **Data Analysis**:
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)(Learning)
+- SQL (Database querying and optimization)
+- Data Cleaning and Wrangling
+- Exploratory Data Analysis (EDA)
+- Power BI (Data Visualization)
 
-- 📫 How to reach me: **fikremichaelmamo@gmail.com**.
+#### **Web Development**:
+- HTML, CSS, JavaScript (Frontend)
+- React.js / Next.js (Frameworks)(Learning)
+- Node.js, Express.js (Backend)(Learning)
+- RESTful APIs(Learning)
+- Git & GitHub (Version Control)
 
-- ⚡ Fun fact: **I love learning so much, sometimes I feel like the Internet is my best friend**. 😅
+#### **Soft Skills**:
+- Critical Thinking
+- Problem-Solving
+- Communication & Storytelling
+- Adaptability & Collaboration
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@fikremichael_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fikremichael_m" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fikremichael-mamo-46185b331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firkemichael mamo" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tool I Use:</h3>
-<p align="left">
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-</p>
+### 🌟 What Makes Me Cool
+- I turn data into decisions and problems into possibilities. 
+- My curiosity drives me to explore, learn, and innovate continuously.
+- I combine technical expertise with a knack for storytelling to create impactful solutions.
+- Always ready to learn from failures and iterate toward success. 
 
+---
 
-<h3 align="left">Languages and Tools I'm Learning:</h3>
-<p align="left">
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;
-</p>
+### 🌱 Current Goals
+- Build a portfolio of impactful data-driven projects.
+- Master advanced concepts in machine learning and full-stack web development.
+- Collaborate on open-source projects and contribute to the community.
 
-<p style="margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fikre-mamo&show_icons=true&locale=en&layout=compact" alt="fikre-mamo" />
-</p>
+---
 
-<p style="margin-bottom: 1rem;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fikre-mamo&show_icons=true&locale=en" alt="fikre-mamo" />
-</p>
+### 📈 Featured Projects
+#### 🛠️ [Project 1: Data Insights Dashboard](#)
+- **Description**: An interactive dashboard that visualizes key insights from a dataset related to social impact.
+- **Tech Stack**: Python, Power BI, SQL
 
+#### 🌐 [Project 2: Responsive Web App](#)
+- **Description**: A web application built for showcasing educational resources.
+- **Tech Stack**: React.js, Node.js, MongoDB
 
+---
 
+### 📫 Let's Connect!
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fikremichael-mamo-46185b331/)
+- Twitter: [@YourTwitterHandle](https://x.com/FikreMichael_M)
+- Email: [fikremichaelmamo@gmail.com](fikremichaelmamo@gmail.com)
+- Web Site: [fikremamo.com](https://firke-portfolio.netlify.app)
+
+---
+
+### 🎉 Fun Fact
+I started my journey by exploring multiple fields like graphic design and web development before discovering my true calling in data and technology. This unique path gives me a creative edge and a fresh perspective in problem-solving. 🚀
 
