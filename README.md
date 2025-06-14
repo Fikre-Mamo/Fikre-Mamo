@@ -20,7 +20,7 @@
 ### **Web Development**
 
 - HTML, CSS, JavaScript (Frontend)
-- JavaScript (Bun)
+- JavaScript (Bun for Backend)
 
 ### **Soft Skills**
 
