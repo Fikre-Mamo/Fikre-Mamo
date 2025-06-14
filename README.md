@@ -20,7 +20,7 @@
 ### **Web Development**
 
 - HTML, CSS, JavaScript (Frontend)
-- Python (Django, Flask)
+- JavaScript (Bun)
 
 ### **Soft Skills**
 
