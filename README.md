@@ -13,7 +13,7 @@
 ### **Data Analysis**
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (PostgreSQL, MySQL)
+- SQL (PostgreSQL, MySQL and SQLserver)
 - Excel (Pivot Tables, VLOOKUP, Macros)
 - Data Visualization (Tableau, Power BI)
 
