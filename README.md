@@ -55,7 +55,7 @@
 
 - **Description**: A web application for tracking educational progress across
   regions.
-- **Tools**: HTML, CSS, JavaScript, Flask
+- **Tools**: HTML, CSS, JavaScript, Bun
 - **Outcome**: Improved data accessibility and regional reporting efficiency.
 
 ## 📫 Let's Connect
