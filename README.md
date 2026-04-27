@@ -55,8 +55,8 @@ def get_skills():
 - Collaboration with other developers
 
 ## 📫 Contact Me
-- [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- [GitHub Profile](https://github.com/your-username)
+- [LinkedIn Profile](https://www.linkedin.com/in/fikremichael-mamo-46185b331/)
+- [GitHub Profile](https://github.com/Fikre-Mamo)
 
 ---
 
